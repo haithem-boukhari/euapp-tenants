@@ -1,5 +1,5 @@
 Version: 1.10.1
 Alias:
   - aliasdictao3
-  - secondalias
+  - secondalias$
 qsdf
